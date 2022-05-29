@@ -1170,8 +1170,8 @@ itm_warhorse_sarranid|Сарранидская боевая лошадь
 itm_warhorse_sarranid_pl|Сарранидская боевая лошадь
 itm_warhorse_steppe|Степная дестриер
 itm_warhorse_steppe_pl|Степная дестриер
-itm_javelin_bow|Лук для копья
-itm_javelin_bow_pl|Лук для копья
+itm_javelin_bow|Лук-дротик
+itm_javelin_bow_pl|Лук-дротик
 itm_knockdown_mace|Опрокидывающая булава
 itm_knockdown_mace_pl|Опрокидывающая булава
 itm_blood_drain_throwing_knives|Кровопускающие Метательные ножи
@@ -1182,8 +1182,8 @@ itm_disarming_throwing_axe|Обезоруживающий метательный
 itm_disarming_throwing_axe_pl|Обезоруживающий метательный топор
 itm_instakill_knife|Нож мгновенного убийства
 itm_instakill_knife_pl|Нож мгновенного убийства
-itm_backstabber|Удар в спину
-itm_backstabber_pl|Предатель
+itm_backstabber|Катана
+itm_backstabber_pl|Катана
 itm_weak_beserker_dart|Слабый дротик берсерка
 itm_weak_beserker_dart_pl|Слабый дротик берсерка
 itm_team_change_dart|Дротик для смены команды
@@ -1202,66 +1202,66 @@ itm_restore_health_armour|Восстанавливающая здоровье б
 itm_restore_health_armour_pl|Восстанавливающая здоровье броня
 itm_pes_start|ПЭС
 itm_pes_start_pl|ПЭС
-itm_resource_ammunition_pointer|указатель ресурсных боеприпасов
-itm_resource_ammunition_pointer_pl|указатель ресурсных боеприпасов
-itm_resource_weaponry_pointer|указатель ресурсного оружия
-itm_resource_weaponry_pointer_pl|указатель ресурсного оружия
+itm_resource_ammunition_pointer|указатель ресурса боеприпасов
+itm_resource_ammunition_pointer_pl|указатель ресурса боеприпасов
+itm_resource_weaponry_pointer|указатель ресурса оружия
+itm_resource_weaponry_pointer_pl|указатель ресурса оружия
 itm_resource_military_supplies_pointer|указатель ресурса военного снаряжения
 itm_resource_military_supplies_pointer_pl|указатель ресурса военного снаряжения
-itm_resource_fabric_pointer|указатель структуры ресурсов
-itm_resource_fabric_pointer_pl|указатель структуры ресурсов
+itm_resource_fabric_pointer|указатель ресурсов ткани
+itm_resource_fabric_pointer_pl|указатель ресурсов ткани
 itm_resource_construction_materials_pointer|указатель ресурсов строительных материалов
 itm_resource_construction_materials_pointer_pl|указатель ресурсов строительных материалов
-itm_resource_furniture_pointer|указатель мебели ресурса
-itm_resource_furniture_pointer_pl|указатель мебели ресурса
-itm_resource_machine_parts_pointer|указатель деталей машин ресурсов
-itm_resource_machine_parts_pointer_pl|указатель деталей машин ресурсов
-itm_resource_paper_pointer|указатель бумаги ресурса
-itm_resource_paper_pointer_pl|указатель бумаги ресурса
+itm_resource_furniture_pointer|указатель ресурса мебели
+itm_resource_furniture_pointer_pl|указатель ресурса мебели
+itm_resource_machine_parts_pointer|указатель ресурса деталей машин
+itm_resource_machine_parts_pointer_pl|указатель ресурса деталей машин
+itm_resource_paper_pointer|указатель ресурса бумаги
+itm_resource_paper_pointer_pl|указатель ресурса бумаги
 itm_resource_clothes_pointer|указатель ресурса одежды
 itm_resource_clothes_pointer_pl|указатель ресурса одежды
 itm_resource_timber_pointer|указатель ресурса древесины
 itm_resource_timber_pointer_pl|указатель ресурса древесины
-itm_resource_steel_pointer|указатель из ресурсной стали
-itm_resource_steel_pointer_pl|указатель из ресурсной стали
-itm_resource_iron|ресурсное железо
-itm_resource_iron_pl|ресурсное железо
-itm_resource_coal|сырьевой уголь
-itm_resource_coal_pl|сырьевой уголь
-itm_resource_meat|ресурсное мясо
-itm_resource_meat_pl|ресурсное мясо
-itm_resource_cotton|ресурсный хлопок
-itm_resource_cotton_pl|ресурсный хлопок
-itm_resource_flour|ресурсная мука
-itm_resource_flour_pl|ресурсная мука
-itm_resource_wood|ресурсная древесина
-itm_resource_wood_pl|ресурсная древесина
-itm_resource_ammunition|ресурсные боеприпасы
-itm_resource_ammunition_pl|ресурсные боеприпасы
-itm_resource_weaponry|ресурсное оружие
-itm_resource_weaponry_pl|ресурсное оружие
-itm_resource_military_supplies|ресурсные военные припасы
-itm_resource_military_supplies_pl|ресурсные военные припасы
-itm_resource_fabric|ткань ресурсов
-itm_resource_fabric_pl|ткань ресурсов
-itm_resource_construction_materials|ресурсные строительные материалы
-itm_resource_construction_materials_pl|ресурсные строительные материалы
-itm_resource_furniture|ресурсная мебель
-itm_resource_furniture_pl|ресурсная мебель
-itm_resource_machine_parts|ресурсные части машин
-itm_resource_machine_parts_pl|ресурсные детали машин
-itm_resource_paper|справочная бумага
-itm_resource_paper_pl|справочный документ
-itm_resource_clothes|ресурсная одежда
-itm_resource_clothes_pl|ресурсная одежда
-itm_resource_timber|ресурсная древесина
-itm_resource_timber_pl|ресурсная древесина
-itm_resource_steel|ресурсная сталь
-itm_resource_steel_pl|ресурсная сталь
-itm_pes_end|конец песа
-itm_pes_end_pl|конец песа
-itm_javelin_bow_ammo|Стрельба дротиками
-itm_javelin_bow_ammo_pl|Стрельба дротиками
+itm_resource_steel_pointer|указатель ресурса стали
+itm_resource_steel_pointer_pl|указатель ресурса стали
+itm_resource_iron|железо (пром.)
+itm_resource_iron_pl|железо (пром.)
+itm_resource_coal|уголь (пром.)
+itm_resource_coal_pl|уголь (пром.)
+itm_resource_meat|мясо (пром.)
+itm_resource_meat_pl|мясо (пром.)
+itm_resource_cotton|хлопок (пром.)
+itm_resource_cotton_pl|хлопок (пром.)
+itm_resource_flour|мука (пром.)
+itm_resource_flour_pl|мука (пром.)
+itm_resource_wood|древесина (пром.)
+itm_resource_wood_pl|древесина (пром.)
+itm_resource_ammunition|боеприпасы (пром.)
+itm_resource_ammunition_pl|боеприпасы (пром.)
+itm_resource_weaponry|оружие (пром.)
+itm_resource_weaponry_pl|оружие (пром.)
+itm_resource_military_supplies|военное снаряжение (пром.)
+itm_resource_military_supplies_pl|военное снаряжение (пром.)
+itm_resource_fabric|ткань (пром.)
+itm_resource_fabric_pl|ткань (пром.)
+itm_resource_construction_materials|строительные материалы (пром.)
+itm_resource_construction_materials_pl|строительные материалы (пром.)
+itm_resource_furniture|мебель (пром.)
+itm_resource_furniture_pl|мебель (пром.)
+itm_resource_machine_parts|детали машин (пром.)
+itm_resource_machine_parts_pl|детали машин (пром.)
+itm_resource_paper|бумага (пром.)
+itm_resource_paper_pl|бамага (пром.)
+itm_resource_clothes|одежда (пром.)
+itm_resource_clothes_pl|одежда (пром.)
+itm_resource_timber|лесоматериалы (пром.)
+itm_resource_timber_pl|лесоматериалы (пром.)
+itm_resource_steel|сталь (пром.)
+itm_resource_steel_pl|сталь (пром.)
+itm_pes_end|конец ПЭС
+itm_pes_end_pl|конец ПЭС
+itm_javelin_bow_ammo|выстрелы для Лук-дротик
+itm_javelin_bow_ammo_pl|выстрелы для Лук-дротик
 itm_ccoop_new_items_end|Конец элементов
 itm_ccoop_new_items_end_pl|Конец элементов
 itm_ria_infantry_trousers1|Российские пехотные брюки
@@ -1482,8 +1482,8 @@ itm_lou_cavalry_trousers1|Брюки австрийской кавалерии
 itm_lou_cavalry_trousers1_pl|Брюки австрийской кавалерии
 itm_lou_cavalry_trousers2|Брюки австрийской кавалерии
 itm_lou_cavalry_trousers2_pl|Брюки австрийской кавалерии
-itm_lou_general|Австрийская генеральная форма
-itm_lou_general_pl|Австрийская генеральная форма
+itm_lou_general|Австрийская генеральская форма
+itm_lou_general_pl|Австрийская генеральская форма
 itm_lou_emperor|Униформа австрийского кайзера
 itm_lou_emperor_pl|Униформа австрийского кайзера
 itm_lou_emperor_trousers1|Австрийские кайзеровские брюки
@@ -1566,8 +1566,8 @@ itm_gho_cavalry_trousers2|Персидские казачьи брюки
 itm_gho_cavalry_trousers2_pl|Персидские казачьи брюки
 itm_gho_cavalry_boots|Персидские кавалерийские сапоги
 itm_gho_cavalry_boots_pl|Персидские кавалерийские сапоги
-itm_gho_leader1|Персидская генеральная форма
-itm_gho_leader1_pl|Персидская генеральная форма
+itm_gho_leader1|Персидская генеральская форма
+itm_gho_leader1_pl|Персидская генеральская форма
 itm_gho_leader_trousers1|Персидские генеральские брюки
 itm_gho_leader_trousers1_pl|Персидские генеральские брюки
 itm_gho_leader_trousers2|Штаны персидского шаха
@@ -1766,10 +1766,10 @@ itm_sidearm_colt_m1851_navy|Кольт M1851 темно-синий
 itm_sidearm_colt_m1851_navy_pl|Кольт M1851 темно-синий
 itm_sidearm_bacon1|Карманный револьвер с барабаном
 itm_sidearm_bacon1_pl|Карманный револьвер с барабаном
-itm_rifle_sharps|Винтовка шарпс 
-itm_rifle_sharps_pl|Винтовка шарпс
-itm_rifle_sharps_m|Винтовка шарпс М
-itm_rifle_sharps_m_pl|Винтовка шарпс М
+itm_rifle_sharps|Винтовка Ша́рпса 
+itm_rifle_sharps_pl|Винтовка Ша́рпса
+itm_rifle_sharps_m|Винтовка Ша́рпса М
+itm_rifle_sharps_m_pl|Винтовка Ша́рпса М
 itm_rifle_henry|Автоматическая винтовка Генри
 itm_rifle_henry_pl|Автоматическая винтовка Генри
 itm_rifle_henry_m|Автоматическая винтовка Генри
@@ -1779,18 +1779,18 @@ itm_rifle_spencer_pl|Автоматическая винтовка Спенсе�
 itm_rifle_spencer_m|Автоматическая винтовка Спенсера
 itm_rifle_spencer_m_pl|Автоматическая винтовка Спенсера
 itm_rifle_spencer_carbine|Автозапальный карабин Спенсера
-itm_rifle_spencer_carbine_pl|Автозапальный карабин Spencer
+itm_rifle_spencer_carbine_pl|Автозапальный карабин Спенсера
 itm_rifle_spencer_carbine_m|Автозапальный карабин Спенсера
 itm_rifle_spencer_carbine_m_pl|Автозапальный карабин Спенсера
-itm_sidearm_savage_revolver|Savage M1861 Navy
-itm_sidearm_savage_revolver_pl|Savage M1861 темно-синий
+itm_sidearm_savage_revolver|Револьвер Саважа M1861
+itm_sidearm_savage_revolver_pl|Револьвер Саважа M1861
 itm_sidearm_pepperbox1|Пеппер-Бокс Револьвер
 itm_sidearm_pepperbox1_pl|Пеппер-Бокс Револьвер
 itm_sidearm_pepperbox2|Пеппер-Бокс Револьвер
 itm_sidearm_pepperbox2_pl|Пеппер-Бокс Револьвер
-itm_rifle_russian_m1845|Российский мушкет образца 1845 года
-itm_rifle_russian_m1845_pl|Российский мушкет образца 1845 года
-itm_rifle_russian_m1845_m|Российский мушкет образца 1845 года
+itm_rifle_russian_m1845|Российский мушкет образца 1845 г.
+itm_rifle_russian_m1845_pl|Российский мушкет образца 1845 г.
+itm_rifle_russian_m1845_m|Российский мушкет образца 1845 г.
 itm_rifle_russian_m1845_m_pl|Российский мушкет M1845
 itm_rifle_russian_m1845_carbine|Российский карабин M1845
 itm_rifle_russian_m1845_carbine_pl|Российский карабин M1845
@@ -1866,10 +1866,10 @@ itm_rifle_austrian_m1867|Винтовка Ванцля
 itm_rifle_austrian_m1867_pl|Винтовка Ванцля
 itm_rifle_austrian_m1867_m|Винтовка Ванцля
 itm_rifle_austrian_m1867_m_pl|Винтовка Ванцля
-itm_rifle_austrian_m1867_carbine|Карабин Wanzl
-itm_rifle_austrian_m1867_carbine_pl|Карабин Wanzl
-itm_rifle_austrian_m1867_carbine_m|Карабин Wanzl
-itm_rifle_austrian_m1867_carbine_m_pl|Карабин Wanzl
+itm_rifle_austrian_m1867_carbine|Карабин Ванцля
+itm_rifle_austrian_m1867_carbine_pl|Карабин Ванцля
+itm_rifle_austrian_m1867_carbine_m|Карабин Ванцля
+itm_rifle_austrian_m1867_carbine_m_pl|Карабин Ванцля
 itm_rifle_austrian_werndl|Винтовка Верндля
 itm_rifle_austrian_werndl_pl|Винтовка Верндля
 itm_rifle_austrian_werndl_m|Винтовка Верндля
@@ -1878,14 +1878,14 @@ itm_rifle_austrian_werndl_carbine|Карабин Верндля
 itm_rifle_austrian_werndl_carbine_pl|Карабин Верндля
 itm_rifle_austrian_werndl_carbine_m|Карабин Верндля
 itm_rifle_austrian_werndl_carbine_m_pl|Карабин Верндля
-itm_rifle_austrian_m1886|Штейр Маннлихер M1886
-itm_rifle_austrian_m1886_pl|Штейр Маннлихер M1886
-itm_rifle_austrian_m1886_m|Штейр Маннлихер M1886
-itm_rifle_austrian_m1886_m_pl|Штейр Маннлихер M1886
-itm_rifle_austrian_m1886_carbine|Карабин Steyr Mannlicher M1886
-itm_rifle_austrian_m1886_carbine_pl|Карабин Steyr Mannlicher M1886
-itm_rifle_austrian_m1886_carbine_m|Карабин Steyr Mannlicher M1886
-itm_rifle_austrian_m1886_carbine_m_pl|Карабин Steyr Mannlicher M1886
+itm_rifle_austrian_m1886|Винтовка Штейра-Маннлихера M1886
+itm_rifle_austrian_m1886_pl|Винтовка Штейра-Маннлихера M1886
+itm_rifle_austrian_m1886_m|Винтовка Штейра-Маннлихера M1886
+itm_rifle_austrian_m1886_m_pl|Винтовка Штейра-Маннлихера M1886
+itm_rifle_austrian_m1886_carbine|Карабин Штейра-Маннлихера M1886
+itm_rifle_austrian_m1886_carbine_pl|Карабин Штейра-Маннлихера M1886
+itm_rifle_austrian_m1886_carbine_m|Карабин Штейра-Маннлихера M1886
+itm_rifle_austrian_m1886_carbine_m_pl|Карабин Штейра-Маннлихера M1886
 itm_rom_shako|Римский кивер.
 itm_rom_shako_pl|Римский кивер.
 itm_rom_kepi|Римский кепи.
@@ -1912,8 +1912,8 @@ itm_lance10|Пика
 itm_lance10_pl|Пика
 itm_bav_trousers_general|Баварские генеральские брюки
 itm_bav_trousers_general_pl|Баварские генеральские брюки
-itm_bav_torso_leadgen1|Баварская генеральная форма
-itm_bav_torso_leadgen1_pl|Баварская генеральная форма
+itm_bav_torso_leadgen1|Баварская генеральская форма
+itm_bav_torso_leadgen1_pl|Баварская генеральская форма
 itm_bav_pants2|Баварские брюки
 itm_bav_pants2_pl|Баварские брюки
 itm_bav_pants1|Баварские брюки
@@ -2012,8 +2012,8 @@ itm_wur_torso_cavalry1|Вюртембергская военная форма
 itm_wur_torso_cavalry1_pl|Вюртембергская военная форма
 itm_wur_torso_cavalry2|Вюртембергская военная форма
 itm_wur_torso_cavalry2_pl|Вюртембергская военная форма
-itm_wur_torso_general1|Генеральная форма Вюртемберга
-itm_wur_torso_general1_pl|Генеральная форма Вюртемберга
+itm_wur_torso_general1|Генеральская форма Вюртемберга
+itm_wur_torso_general1_pl|Генеральская форма Вюртемберга
 itm_wur_trousers1|Вюртембергские брюки
 itm_wur_trousers1_pl|Вюртембергские брюки
 itm_wur_trousers2|Вюртембергские брюки
@@ -2038,8 +2038,8 @@ itm_han_trousers1|Ганноверские брюки
 itm_han_trousers1_pl|Ганноверские брюки
 itm_han_trousers2|Ганноверские брюки
 itm_han_trousers2_pl|Ганноверские брюки
-itm_han_torso_leadgen1|Ганноверская генеральная форма
-itm_han_torso_leadgen1_pl|Ганноверская генеральная форма
+itm_han_torso_leadgen1|Ганноверская генеральская форма
+itm_han_torso_leadgen1_pl|Ганноверская генеральская форма
 itm_han_torso_cavalry|Ганноверская военная форма
 itm_han_torso_cavalry_pl|Ганноверская военная форма
 itm_han_torso_infantry3|Ганноверская военная форма
@@ -2084,8 +2084,8 @@ itm_tur_torso_cavalry2|Османская военная форма
 itm_tur_torso_cavalry2_pl|Османская военная форма
 itm_tur_torso_cavalryy4|Османская военная форма
 itm_tur_torso_cavalryy4_pl|Османская военная форма
-itm_tur_torso_general|Османская генеральная форма
-itm_tur_torso_general_pl|Османская генеральная форма
+itm_tur_torso_general|Османская генеральская форма
+itm_tur_torso_general_pl|Османская генеральская форма
 itm_tur_torso_sultan|Униформа османского султана
 itm_tur_torso_sultan_pl|Униформа османского султана
 itm_tur_trousers_general|Оттоманские генеральские брюки
@@ -2120,8 +2120,8 @@ itm_egy_infantry2|Египетская военная форма
 itm_egy_infantry2_pl|Египетская военная форма
 itm_egy_infantry1|Египетская военная форма
 itm_egy_infantry1_pl|Египетская военная форма
-itm_egy_general|Египетская генеральная форма
-itm_egy_general_pl|Египетская генеральная форма
+itm_egy_general|Египетская генеральская форма
+itm_egy_general_pl|Египетская генеральская форма
 itm_egy_pasha|Униформа египетского паши
 itm_egy_pasha_pl|Униформа египетского паши
 itm_egy_fez1|Египетская феска
@@ -2146,8 +2146,8 @@ itm_dan_torso_infantry3|Датская военная форма
 itm_dan_torso_infantry3_pl|Датская военная форма
 itm_dan_torso_cavalry|Датская военная форма
 itm_dan_torso_cavalry_pl|Датская военная форма
-itm_dan_general|Датская генеральная форма
-itm_dan_general_pl|Датская генеральная форма
+itm_dan_general|Датская генеральская форма
+itm_dan_general_pl|Датская генеральская форма
 itm_dan_torso_king|Униформа датского короля
 itm_dan_torso_king_pl|Униформа датского короля
 itm_dan_trousers|Штаны датской пехоты
@@ -2176,8 +2176,8 @@ itm_sve_torso_cavalry1|Шведская военная форма
 itm_sve_torso_cavalry1_pl|Шведская военная форма
 itm_sve_torso_cavalry2|Шведская военная форма
 itm_sve_torso_cavalry2_pl|Шведская военная форма
-itm_sve_torso_general|Шведская генеральная форма
-itm_sve_torso_general_pl|Шведская генеральная форма
+itm_sve_torso_general|Шведская генеральская форма
+itm_sve_torso_general_pl|Шведская генеральская форма
 itm_sve_hat2|Шведская шляпа
 itm_sve_hat2_pl|Шведская шляпа
 itm_sve_shako|Шведский кивер
@@ -2236,8 +2236,8 @@ itm_fra_torso_cavalry1|Французская военная форма
 itm_fra_torso_cavalry1_pl|Французская военная форма
 itm_fra_torso_cavalry2|Французская военная форма
 itm_fra_torso_cavalry2_pl|Французская военная форма
-itm_fra_torso_general|Французская генеральная форма
-itm_fra_torso_general_pl|Французская генеральная форма
+itm_fra_torso_general|Французская генеральская форма
+itm_fra_torso_general_pl|Французская генеральская форма
 itm_fra_torso_napoleon3|Французская форма Наполеона
 itm_fra_torso_napoleon3_pl|Французская форма Наполеона
 itm_fra_infantry_trousers1|Брюки французской пехоты
@@ -2256,18 +2256,18 @@ itm_fra_trousers_cavalry|Брюки французской кавалерии
 itm_fra_trousers_cavalry_pl|Брюки французской кавалерии
 itm_fra_trousers_general|Французские брюки General
 itm_fra_trousers_general_pl|Французские брюки General
-itm_us_trousers|ДИ
-itm_us_trousers_pl|ДИ
-itm_jap_trousers|DI
-itm_jap_trousers_pl|ДИ
-itm_us_infantry|DI
-itm_us_infantry_pl|DI
-itm_jap_infantry|DI
-itm_jap_infantry_pl|DI
-itm_us_hat|ДИ
-itm_us_hat_pl|DI
-itm_jap_hat|ДИ
-itm_jap_hat_pl|ДИ
+itm_us_trousers|Американские военные брюки
+itm_us_trousers_pl|Американские военные брюки
+itm_jap_trousers|Японские военные брюки
+itm_jap_trousers_pl|Японские военные брюки
+itm_us_infantry|Американские пехотные брюки
+itm_us_infantry_pl|Американские пехотные брюки
+itm_jap_infantry|Японские пехотные брюки
+itm_jap_infantry_pl|Японские пехотные брюки
+itm_us_hat|Американская шляпа
+itm_us_hat_pl|Американская шляпа
+itm_jap_hat|Японская шляпа
+itm_jap_hat_pl|Японская шляпа
 itm_srb_hat2|Сербская шляпа
 itm_srb_hat2_pl|Сербская шляпа
 itm_srb_hat1|Сербская шляпа
@@ -2287,9 +2287,9 @@ itm_srb_hat8_pl|Сербская шляпа
 itm_srb_hat9|Сербский шлем
 itm_srb_hat9_pl|Сербский шлем
 itm_srb_cavalry_kepi|Сербский кавалерийский кепи
-itm_srb_cavalry_kepi_pl|Сербская кавалерия Кепи
-itm_srb_general_kepi|Сербский генерал Кепи
-itm_srb_general_kepi_pl|Сербский генерал Кепи
+itm_srb_cavalry_kepi_pl|Сербский кавалерийский Кепи
+itm_srb_general_kepi|Сербский генеральский кепи
+itm_srb_general_kepi_pl|Сербский генеральский кепи
 itm_srb_trousers1|Брюки сербской пехоты
 itm_srb_trousers1_pl|Брюки сербской пехоты
 itm_srb_trousers2|Брюки сербской пехоты
@@ -2330,20 +2330,20 @@ itm_srb_infantry12|Сербская военная форма
 itm_srb_infantry12_pl|Сербская военная форма
 itm_srb_cavalry1|Сербская военная форма
 itm_srb_cavalry1_pl|Сербская военная форма
-itm_srb_general_torso|Сербская генеральная форма
-itm_srb_general_torso_pl|Сербская генеральная форма
+itm_srb_general_torso|Сербская генеральская форма
+itm_srb_general_torso_pl|Сербская генеральская форма
 itm_srb_general_trousers|Сербские генеральские брюки
 itm_srb_general_trousers_pl|Сербские генеральские брюки
 itm_sidearm_lefaucheux|Лефошо
 itm_sidearm_lefaucheux_pl|Лефошо
 itm_sidearm_reichsrevolver1879|Рейхсревольвер M1879
 itm_sidearm_reichsrevolver1879_pl|Рейхсревольвер M1879
-itm_sidearm_mas1873|MAS 1873
-itm_sidearm_mas1873_pl|MAS 1873
-itm_yuricannonballcartridge|YuriCannonballCartridge
-itm_yuricannonballcartridge_pl|YuriCannonballCartridge
-itm_yurigrapeshotcartridge|YuriGrapeshotCartridge
-itm_yurigrapeshotcartridge_pl|ЮрийGrapeshotCartridge
+itm_sidearm_mas1873|Револьвер Шамело-Дельвинь 1873
+itm_sidearm_mas1873_pl|Револьвер Шамело-Дельвинь 1873
+itm_yuricannonballcartridge|Патрон с пушечным ядром
+itm_yuricannonballcartridge_pl|Патрон с пушечным ядром
+itm_yurigrapeshotcartridge|Патрон с картечью
+itm_yurigrapeshotcartridge_pl|Патрон с картечью
 itm_victorian_dress1a|Платье
 itm_victorian_dress1a_pl|Платье
 itm_victorian_dress1b|Платье
@@ -2376,50 +2376,50 @@ itm_rifle_german_m1871|Винтовка Маузер M1871
 itm_rifle_german_m1871_pl|Винтовка Маузер М1871
 itm_rifle_german_m1871_m|Винтовка Маузер М1871
 itm_rifle_german_m1871_m_pl|Винтовка Маузер М1871
-itm_rifle_german_m1871_carbine|Карабин Mauser M1871
-itm_rifle_german_m1871_carbine_pl|Карабин Mauser M1871
-itm_rifle_german_m1871_carbine_m|Карабин Mauser M1871
-itm_rifle_german_m1871_carbine_m_pl|Карабин Mauser M1871
-itm_rifle_german_m1888|Винтовка Gewehr M1888
-itm_rifle_german_m1888_pl|Gewehr M1888 Винтовка
-itm_rifle_german_m1888_m|Винтовка Gewehr M1888
-itm_rifle_german_m1888_m_pl|Винтовка Gewehr M1888
-itm_rifle_german_m1888_carbine|Карабин Gewehr M1888
-itm_rifle_german_m1888_carbine_pl|Карабин Gewehr M1888
-itm_rifle_german_m1888_carbine_m|Карабин Gewehr M1888
-itm_rifle_german_m1888_carbine_m_pl|Карабин Gewehr M1888
+itm_rifle_german_m1871_carbine|Карабин Маузер M1871
+itm_rifle_german_m1871_carbine_pl|Карабин Маузер M1871
+itm_rifle_german_m1871_carbine_m|Карабин Маузер M1871
+itm_rifle_german_m1871_carbine_m_pl|Карабин Маузер M1871
+itm_rifle_german_m1888|Винтовка Гевер M1888
+itm_rifle_german_m1888_pl|Винтовка Гевер M1888
+itm_rifle_german_m1888_m|Винтовка Гевер M1888
+itm_rifle_german_m1888_m_pl|Винтовка Гевер M1888
+itm_rifle_german_m1888_carbine|Карабин Гевер M1888
+itm_rifle_german_m1888_carbine_pl|Карабин Гевер M1888
+itm_rifle_german_m1888_carbine_m|Карабин Гевер M1888
+itm_rifle_german_m1888_carbine_m_pl|Карабин Гевер M1888
 itm_sidearm_colt_walker|Кольт Уокер
 itm_sidearm_colt_walker_pl|Кольт Уокер
-itm_sidearm_galand|Галанд M1870
-itm_sidearm_galand_pl|Галанд M1870
+itm_sidearm_galand|Револьвер Галана M1870
+itm_sidearm_galand_pl|Револьвер Галана M1870
 itm_empty_legs|пустые ноги
 itm_empty_legs_pl|пустые ноги
 itm_empty_head|пустая голова
 itm_empty_head_pl|пустая голова
 itm_empty_hands|пустые руки
 itm_empty_hands_pl|пустые руки
-itm_sidearm_lemat|Револьвер LeMat
-itm_sidearm_lemat_pl|Револьвер LeMat
+itm_sidearm_lemat|Револьвер Ле Ма М1856
+itm_sidearm_lemat_pl|Револьвер Ле Ма М1856
 itm_canister_shot_small|Маленький снаряд картечи
 itm_canister_shot_small_pl|Маленький снаряд картечи
 itm_canister_shot_small_projectile|Снаряд картечи
 itm_canister_shot_small_projectile_pl|Снаряд картечи
-itm_sidearm_beaumont|Револьвер Бомонта-Адамса
-itm_sidearm_beaumont_pl|Револьвер Бомонта-Адамса
-itm_sidearm_enfieldmk1|Энфилд Mk I
-itm_sidearm_enfieldmk1_pl|Энфилд Mk I
-itm_sidearm_webleymk6|Уэбли Мк VI
-itm_sidearm_webleymk6_pl|Уэбли Мк VI
-itm_sidearm_bodeo|Бодео M1889
-itm_sidearm_bodeo_pl|Бодео M1889
-itm_sidearm_webleybulldog|Револьвер Уэбли
-itm_sidearm_webleybulldog_pl|Револьвер Уэбли
-itm_sidearm_c93|Борхардт С-93
-itm_sidearm_c93_pl|Борхардт С-93
-itm_sidearm_colt1892|Кольт M1892
-itm_sidearm_colt1892_pl|Кольт M1892
-itm_sidearm_colt1849|Карманный револьвер Colt M1849
-itm_sidearm_colt1849_pl|Карманный револьвер Colt M1849
+itm_sidearm_beaumont|Револьвер Бомонта-Адамса М1855
+itm_sidearm_beaumont_pl|Револьвер Бомонта-Адамса М1855
+itm_sidearm_enfieldmk1|Револьвер Энфилд Mk I
+itm_sidearm_enfieldmk1_pl|Револьвер Энфилд Mk I
+itm_sidearm_webleymk6|Револьвер Уэбли Mk VI
+itm_sidearm_webleymk6_pl|Револьвер Уэбли Mk VI
+itm_sidearm_bodeo|Револьвер Бодео M1889
+itm_sidearm_bodeo_pl|Револьвер Бодео M1889
+itm_sidearm_webleybulldog|Револьвер Уэбли М1872
+itm_sidearm_webleybulldog_pl|Револьвер Уэбли М1872
+itm_sidearm_c93|Пистолет Борхардт С-93
+itm_sidearm_c93_pl|Пистолет Борхардт С-93
+itm_sidearm_colt1892|Револьвер Кольт M1892
+itm_sidearm_colt1892_pl|Револьвер Кольт M1892
+itm_sidearm_colt1849|Револьвер Кольт M1849
+itm_sidearm_colt1849_pl|Револьвер Кольт M1849
 itm_ammo_pistol_double|Двойной боезапас пистолетного калибра
 itm_ammo_pistol_double_pl|Двойной боезапас пистолетного калибра
 itm_res_trousers1|Итальянские военные брюки
@@ -2454,14 +2454,14 @@ itm_res_infantry7|Итальянская военная форма
 itm_res_infantry7_pl|Итальянская военная форма
 itm_res_infantry8|Итальянская военная форма
 itm_res_infantry8_pl|Итальянская военная форма
-itm_res_cavalry1|Итальянская военная форма
-itm_res_cavalry1_pl|Итальянская военная форма
-itm_res_cavalry2|Итальянская военная форма
-itm_res_cavalry2_pl|Итальянская военная форма
-itm_res_general1|Униформа итальянского командира
-itm_res_general1_pl|Униформа итальянского командира
-itm_res_general2|Униформа итальянского командира
-itm_res_general2_pl|Униформа итальянского командира
+itm_res_cavalry1|Итальянская кавалерийская форма
+itm_res_cavalry1_pl|Итальянская кавалерийская форма
+itm_res_cavalry2|Итальянская кавалерийская форма
+itm_res_cavalry2_pl|Итальянская кавалерийская форма
+itm_res_general1|Итальянская генеральская форма
+itm_res_general1_pl|Итальянская генеральская форма
+itm_res_general2|Итальянская генеральская форма
+itm_res_general2_pl|Итальянская генеральская форма
 itm_res_hat1|Итальянская военная шляпа
 itm_res_hat1_pl|Итальянская военная шляпа
 itm_res_hat1b|Итальянская военная шляпа
@@ -2546,12 +2546,12 @@ itm_eds_infantry3|Сицилийская военная форма
 itm_eds_infantry3_pl|Сицилийская военная форма
 itm_eds_infantry4|Сицилийская военная форма
 itm_eds_infantry4_pl|Сицилийская военная форма
-itm_eds_cavalry1|Сицилийская военная форма
-itm_eds_cavalry1_pl|Сицилийская военная форма
-itm_eds_cavalry2|Сицилийская военная форма
-itm_eds_cavalry2_pl|Сицилийская военная форма
-itm_eds_general1|Униформа сицилийского командира
-itm_eds_general1_pl|Униформа сицилийского командира
+itm_eds_cavalry1|Сицилийская кавалерийская форма
+itm_eds_cavalry1_pl|Сицилийская кавалерийская форма
+itm_eds_cavalry2|Сицилийская кавалерийская форма
+itm_eds_cavalry2_pl|Сицилийская кавалерийская форма
+itm_eds_general1|Сицилийская генеральская форма
+itm_eds_general1_pl|Сицилийская генеральская форма
 itm_eds_hat1|Сицилийская военная шляпа
 itm_eds_hat1_pl|Сицилийская военная шляпа
 itm_eds_hat1b|Сицилийская военная шляпа
@@ -2642,88 +2642,88 @@ itm_arab_headwear7|Арабские головные уборы
 itm_arab_headwear7_pl|Арабские головные уборы
 itm_arab_pants|Арабские штаны
 itm_arab_pants_pl|Арабские штаны
-itm_rifle_british_m1842|Мушкет образца 1842 г.
-itm_rifle_british_m1842_pl|Мушкет образца 1842 г.
-itm_rifle_british_m1842_m|Мушкет образца 1842 г.
-itm_rifle_british_m1842_m_pl|Мушкет образца 1842 г.
-itm_rifle_british_m1842_carbine|Карабин образца 1842 г.
-itm_rifle_british_m1842_carbine_pl|Карабин образца 1842 г.
-itm_rifle_british_m1842_carbine_m|Карабин образца 1842 г.
-itm_rifle_british_m1842_carbine_m_pl|Карабин образца 1842 г.
-itm_rifle_british_m1853|Винтовка Энфилд образца 1853 г.
-itm_rifle_british_m1853_pl|Винтовка Энфилд образца 1853 г.
-itm_rifle_british_m1853_m|Винтовка Энфилд образца 1853 г.
-itm_rifle_british_m1853_m_pl|Винтовка Энфилд образца 1853 г.
-itm_rifle_british_m1853_carbine|Карабин Энфилд образца 1853 г.
-itm_rifle_british_m1853_carbine_pl|Карабин Энфилд образца 1853 г.
-itm_rifle_british_m1853_carbine_m|Карабин Энфилд образца 1853 г.
-itm_rifle_british_m1853_carbine_m_pl|Карабин Энфилд образца 1853 г.
-itm_rifle_british_snider|Винтовка Снайдера-Энфилда
-itm_rifle_british_snider_pl|Винтовка Снайдера-Энфилда
-itm_rifle_british_snider_m|Винтовка Снайдера-Энфилда
-itm_rifle_british_snider_m_pl|Винтовка Снайдера-Энфилда
-itm_rifle_british_snider_carbine|Карабин Снайдер-Энфилд
-itm_rifle_british_snider_carbine_pl|Карабин Снайдер-Энфилд
-itm_rifle_british_snider_carbine_m|Карабин Снайдер-Энфилд
-itm_rifle_british_snider_carbine_m_pl|Карабин Снайдер-Энфилд
-itm_rifle_british_martinihenry|Винтовка Мартини-Генри
-itm_rifle_british_martinihenry_pl|Винтовка Мартини-Генри
-itm_rifle_british_martinihenry_m|Винтовка Мартини-Генри
-itm_rifle_british_martinihenry_m_pl|Винтовка Мартини-Генри
-itm_rifle_british_martinihenry_carbine|Карабин Мартини-Генри
-itm_rifle_british_martinihenry_carbine_pl|Карабин Мартини-Генри
-itm_rifle_british_martinihenry_carbine_m|Карабин Мартини-Генри
-itm_rifle_british_martinihenry_carbine_m_pl|Мартини-Генри Карабин
-itm_rifle_british_metford|Винтовка Ли-Метфорда
-itm_rifle_british_metford_pl|Винтовка Ли-Метфорда
-itm_rifle_british_metford_m|Винтовка Ли-Метфорда
-itm_rifle_british_metford_m_pl|Винтовка Ли-Метфорд
-itm_rifle_british_metford_carbine|Карабин Ли-Метфорда
-itm_rifle_british_metford_carbine_pl|Карабин Ли-Метфорда
-itm_rifle_british_metford_carbine_m|Карабин Ли-Метфорда
-itm_rifle_british_metford_carbine_m_pl|Карабин Ли-Метфорд
-itm_rifle_french_m1844|Французский гладкоствольный мушкет
-itm_rifle_french_m1844_pl|Французский гладкоствольный мушкет
-itm_rifle_french_m1844_m|Французский гладкоствольный мушкет
-itm_rifle_french_m1844_m_pl|Французский гладкоствольный мушкет
-itm_rifle_french_m1844_carbine|Французский гладкоствольный карабин
-itm_rifle_french_m1844_carbine_pl|Французский гладкоствольный карабин
-itm_rifle_french_m1844_carbine_m|Французский гладкоствольный карабин
-itm_rifle_french_m1844_carbine_m_pl|Французский гладкоствольный карабин
-itm_rifle_french_m1849|Французская винтовка Минье
-itm_rifle_french_m1849_pl|Французская винтовка Минье
-itm_rifle_french_m1849_m|Французская винтовка Минье
-itm_rifle_french_m1849_m_pl|Французская винтовка Минье
-itm_rifle_french_m1849_carbine|Французский карабин Мини
-itm_rifle_french_m1849_carbine_pl|Французский карабин Minie
-itm_rifle_french_m1849_carbine_m|Французский карабин Мини
-itm_rifle_french_m1849_carbine_m_pl|Французский карабин Minie
-itm_rifle_french_tabatiere|Винтовка Шнайдера-Табатьера
-itm_rifle_french_tabatiere_pl|Винтовка Шнайдера-Табатьера
-itm_rifle_french_tabatiere_m|Винтовка Шнайдера-Табатьера
-itm_rifle_french_tabatiere_m_pl|Винтовка Шнайдера-Табатьера
-itm_rifle_french_tabatiere_carbine|Карабин Шнайдера-Табатьера
-itm_rifle_french_tabatiere_carbine_pl|Карабин Шнайдера-Табатьера
-itm_rifle_french_tabatiere_carbine_m|Карабин Шнайдера-Табатьера
-itm_rifle_french_tabatiere_carbine_m_pl|Карабин Шнайдера-Табатьера
-itm_rifle_french_chassepot|Винтовка Шасспо M1866
-itm_rifle_french_chassepot_pl|Винтовка Шасспо M1866
-itm_rifle_french_chassepot_m|Винтовка Шасспо M1866
-itm_rifle_french_chassepot_m_pl|Винтовка Шасспо M1866
-itm_rifle_french_chassepot_carbine|Карабин Шасспо M1866
-itm_rifle_french_chassepot_carbine_pl|Карабин Шасспо M1866
-itm_rifle_french_chassepot_carbine_m|Карабин Шасспо M1866
-itm_rifle_french_chassepot_carbine_m_pl|Карабин Шасспо M1866
-itm_rifle_french_lebel|Винтовка Лебеля M1886
-itm_rifle_french_lebel_pl|Винтовка Лебеля M1886
-itm_rifle_french_lebel_m|Винтовка Лебеля M1886
-itm_rifle_french_lebel_m_pl|Винтовка Лебеля M1886
-itm_rifle_french_lebel_carbine|Карабин Лебеля M1886
-itm_rifle_french_lebel_carbine_pl|Карабин Лебеля M1886
-itm_rifle_french_lebel_carbine_m|Карабин Лебеля M1886
-itm_rifle_french_lebel_carbine_m_pl|Карабин Лебеля M1886
-itm_sidearm_colt_m1860|Кольт M1860 Армейский
-itm_sidearm_colt_m1860_pl|Кольт M1860 Армейский
+itm_rifle_british_m1842|Британский мушкет М1842
+itm_rifle_british_m1842_pl|Британский  мушкет М1842
+itm_rifle_british_m1842_m|Британский  мушкет М1842
+itm_rifle_british_m1842_m_pl|Британский мушкет М1842
+itm_rifle_british_m1842_carbine|Британский карабин М1842
+itm_rifle_british_m1842_carbine_pl|Британский карабин М1842
+itm_rifle_british_m1842_carbine_m|Британский карабин М1842
+itm_rifle_british_m1842_carbine_m_pl|Британский карабин М1842
+itm_rifle_british_m1853|Британская винтовка Энфилда М1853
+itm_rifle_british_m1853_pl|Британская винтовка Энфилда М1853
+itm_rifle_british_m1853_m|Британская винтовка Энфилда М1853
+itm_rifle_british_m1853_m_pl|Британская винтовка Энфилда М1853
+itm_rifle_british_m1853_carbine|Британский карабин Энфилда М1853
+itm_rifle_british_m1853_carbine_pl|Британский карабин Энфилда М1853
+itm_rifle_british_m1853_carbine_m|Британский карабин Энфилда М1853
+itm_rifle_british_m1853_carbine_m_pl|Британский карабин Энфилда М1853
+itm_rifle_british_snider|Британская винтовка Снайдера-Энфилда М1867
+itm_rifle_british_snider_pl|Британская винтовка Снайдера-Энфилда М1867
+itm_rifle_british_snider_m|Британская винтовка Снайдера-Энфилда М1867
+itm_rifle_british_snider_m_pl|Британская винтовка Снайдера-Энфилда М1867
+itm_rifle_british_snider_carbine|Британский карабин Снайдер-Энфилда М1867
+itm_rifle_british_snider_carbine_pl|Британский карабин Снайдер-Энфилда М1867
+itm_rifle_british_snider_carbine_m|Британский карабин Снайдер-Энфилда М1867
+itm_rifle_british_snider_carbine_m_pl|Британский карабин Снайдер-Энфилда М1867
+itm_rifle_british_martinihenry|Британская винтовка Мартини-Генри М1871
+itm_rifle_british_martinihenry_pl|Британская винтовка Мартини-Генри М1871
+itm_rifle_british_martinihenry_m|Британская винтовка Мартини-Генри М1871
+itm_rifle_british_martinihenry_m_pl|Британская винтовка Мартини-Генри М1871
+itm_rifle_british_martinihenry_carbine|Британский карабин Мартини-Генри М1871
+itm_rifle_british_martinihenry_carbine_pl|Британский карабин Мартини-Генри М1871
+itm_rifle_british_martinihenry_carbine_m|Британский карабин Мартини-Генри М1871
+itm_rifle_british_martinihenry_carbine_m_pl|Британский карабин Мартини-Генри М1871
+itm_rifle_british_metford|Британская винтовка Ли-Метфорда М1888
+itm_rifle_british_metford_pl|Британская винтовка Ли-Метфорда М1888
+itm_rifle_british_metford_m|Британская винтовка Ли-Метфорда М1888
+itm_rifle_british_metford_m_pl|Британская винтовка Ли-Метфорда М1888
+itm_rifle_british_metford_carbine|Британский карабин Ли-Метфорда М1888
+itm_rifle_british_metford_carbine_pl|Британский карабин Ли-Метфорда М1888
+itm_rifle_british_metford_carbine_m|Британский карабин Ли-Метфорда М1888
+itm_rifle_british_metford_carbine_m_pl|Британский карабин Ли-Метфорд М1888
+itm_rifle_french_m1844|Французский гладкоствольный мушкет М1844
+itm_rifle_french_m1844_pl|Французский гладкоствольный мушкет М1844
+itm_rifle_french_m1844_m|Французский гладкоствольный мушкет М1844
+itm_rifle_french_m1844_m_pl|Французский гладкоствольный мушкет М1844
+itm_rifle_french_m1844_carbine|Французский гладкоствольный карабин М1844
+itm_rifle_french_m1844_carbine_pl|Французский гладкоствольный карабин М1844
+itm_rifle_french_m1844_carbine_m|Французский гладкоствольный карабин М1844
+itm_rifle_french_m1844_carbine_m_pl|Французский гладкоствольный карабин М1844
+itm_rifle_french_m1849|Французская винтовка Минье М1849
+itm_rifle_french_m1849_pl|Французская винтовка Минье М1849
+itm_rifle_french_m1849_m|Французская винтовка Минье М1849
+itm_rifle_french_m1849_m_pl|Французская винтовка Минье М1849
+itm_rifle_french_m1849_carbine|Французский карабин Минье
+itm_rifle_french_m1849_carbine_pl|Французский карабин Минье М1849
+itm_rifle_french_m1849_carbine_m|Французский карабин Минье М1849
+itm_rifle_french_m1849_carbine_m_pl|Французский карабин Минье М1849
+itm_rifle_french_tabatiere|Французская винтовка Табатье М1867
+itm_rifle_french_tabatiere_pl|Французская винтовка Табатье М1867
+itm_rifle_french_tabatiere_m|Французская винтовка Табатье М1867
+itm_rifle_french_tabatiere_m_pl|Французская винтовка Табатье М1867
+itm_rifle_french_tabatiere_carbine|Французский карабин Табатьера М1867
+itm_rifle_french_tabatiere_carbine_pl|Французский карабин Табатьера М1867
+itm_rifle_french_tabatiere_carbine_m|Французский карабин Табатьера М1867
+itm_rifle_french_tabatiere_carbine_m_pl|Французский карабин Табатьера М1867
+itm_rifle_french_chassepot|Французская винтовка Шасспо M1866
+itm_rifle_french_chassepot_pl|Французская винтовка Шасспо M1866
+itm_rifle_french_chassepot_m|Французская винтовка Шасспо M1866
+itm_rifle_french_chassepot_m_pl|Французская винтовка Шасспо M1866
+itm_rifle_french_chassepot_carbine|Французский карабин Шасспо M1866
+itm_rifle_french_chassepot_carbine_pl|Французский карабин Шасспо M1866
+itm_rifle_french_chassepot_carbine_m|Французский карабин Шасспо M1866
+itm_rifle_french_chassepot_carbine_m_pl|Французский карабин Шасспо M1866
+itm_rifle_french_lebel|Французская винтовка Лебеля M1886
+itm_rifle_french_lebel_pl|Французская винтовка Лебеля M1886
+itm_rifle_french_lebel_m|Французская винтовка Лебеля M1886
+itm_rifle_french_lebel_m_pl|Французская винтовка Лебеля M1886
+itm_rifle_french_lebel_carbine|Французский карабин Лебеля M1886
+itm_rifle_french_lebel_carbine_pl|Французский карабин Лебеля M1886
+itm_rifle_french_lebel_carbine_m|Французский карабин Лебеля M1886
+itm_rifle_french_lebel_carbine_m_pl|Французский карабин Лебеля M1886
+itm_sidearm_colt_m1860|Кольт АрмейскийM1860 
+itm_sidearm_colt_m1860_pl|Кольт Армейский M1860
 itm_rifle_winchester_m1866|Винтовка Винчестер M1866
 itm_rifle_winchester_m1866_pl|Винтовка Винчестер M1866
 itm_rifle_winchester_m1866_m|Винтовка Винчестер М1866
@@ -2802,20 +2802,20 @@ itm_baf_trousers7|Брюки британской армии
 itm_baf_trousers7_pl|Британские военные брюки
 itm_baf_trousers8|Брюки британской армии
 itm_baf_trousers8_pl|Британские военные брюки
-itm_baf_hat1|Кепи Британской службы
-itm_baf_hat1_pl|Кепи Британской службы
-itm_baf_hat2|Кепи Британской службы
-itm_baf_hat2_pl|Кепи Британской службы
-itm_baf_hat3|Кепи Британской службы
-itm_baf_hat3_pl|Кепи Британской службы
+itm_baf_hat1|Британская служебная кепи
+itm_baf_hat1_pl|Британская служебная кепи
+itm_baf_hat2|Британская служебная кепи
+itm_baf_hat2_pl|Британская служебная кепи
+itm_baf_hat3|Британская служебная кепи
+itm_baf_hat3_pl|Британская служебная кепи
 itm_baf_hat4|Шлем британского драгуна
 itm_baf_hat4_pl|Шлем британского драгуна
 itm_baf_hat5|Шлем британского улана
 itm_baf_hat5_pl|Шлем британского улана
 itm_baf_hat6|Британский кивер
 itm_baf_hat6_pl|Британский кивер
-itm_baf_hat7|Кепи Британской службы
-itm_baf_hat7_pl|Кепи Британской службы
+itm_baf_hat7|Британская служебная кепи
+itm_baf_hat7_pl|Британская служебная кепи
 itm_baf_hat8|Пробковый шлем
 itm_baf_hat8_pl|Пробковый шлем
 itm_baf_hat9|Пробковый шлем
@@ -2839,21 +2839,21 @@ itm_shotgun_caplock_pl|Двуствольное ружье с каплоком
 itm_shotgun_caplock_m|Двуствольное ружье с каплоком
 itm_shotgun_caplock_m_pl|Двуствольное ружье с каплоком
 itm_shotgun_doublebarrel|Двуствольное ружье
-itm_shotgun_doublebarrel_pl|Двуствольный дробовик
-itm_shotgun_doublebarrel_m|Двуствольный дробовик
-itm_shotgun_doublebarrel_m_pl|Двуствольный дробовик
-itm_shotgun_doublebarrel_short|Укороченный двуствольный дробовик
-itm_shotgun_doublebarrel_short_pl|Укороченный двуствольный дробовик
-itm_shotgun_doublebarrel_short_m|Укороченный двуствольный дробовик
-itm_shotgun_doublebarrel_short_m_pl|Укороченный двуствольный дробовик
-itm_shotgun_winchester_m1887|Винчестер M1887
-itm_shotgun_winchester_m1887_pl|Винчестер M1887
-itm_shotgun_winchester_m1887_m|Винчестер M1887
-itm_shotgun_winchester_m1887_m_pl|Винчестер M1887
-itm_shotgun_greener|Дробовик Гринер
-itm_shotgun_greener_pl|Дробовик Гринер
-itm_shotgun_greener_m|Дробовик Гринер
-itm_shotgun_greener_m_pl|Дробовик Гринер
+itm_shotgun_doublebarrel_pl|Двуствольный ружье
+itm_shotgun_doublebarrel_m|Двуствольный ружье
+itm_shotgun_doublebarrel_m_pl|Двуствольный ружье
+itm_shotgun_doublebarrel_short|Укороченный двуствольный ружье
+itm_shotgun_doublebarrel_short_pl|Укороченный двуствольный ружье
+itm_shotgun_doublebarrel_short_m|Укороченный двуствольный ружье
+itm_shotgun_doublebarrel_short_m_pl|Укороченный двуствольный ружье
+itm_shotgun_winchester_m1887|Ружье Винчестер M1887
+itm_shotgun_winchester_m1887_pl|Ружье Винчестер M1887
+itm_shotgun_winchester_m1887_m|Ружье Винчестер M1887
+itm_shotgun_winchester_m1887_m_pl|Ружье Винчестер M1887
+itm_shotgun_greener|Ружье Гринера М1873
+itm_shotgun_greener_pl|Ружье Гринера М1873
+itm_shotgun_greener_m|Ружье Гринера М1873
+itm_shotgun_greener_m_pl|Ружье Гринера М1873
 itm_urban_dress1_trousers|Юбка
 itm_urban_dress1_trousers_pl|Юбка
 itm_hat_afab1|Шляпа
@@ -2890,22 +2890,22 @@ itm_edt_hat3|Испанский кивер
 itm_edt_hat3_pl|Испанский кивер
 itm_edt_hat4|Испанский кивер
 itm_edt_hat4_pl|Испанский кивер
-itm_rifle_spanish_m1859|Испанский мушкет образца 1859 г.
-itm_rifle_spanish_m1859_pl|Испанский мушкет образца 1859 г.
-itm_rifle_spanish_m1859_m|Испанский мушкет образца 1859 г.
-itm_rifle_spanish_m1859_m_pl|Испанский мушкет образца 1859 г.
-itm_rifle_spanish_m1859_carbine|Испанский карабин образца 1859 г.
-itm_rifle_spanish_m1859_carbine_pl|Испанский карабин образца 1859 г.
-itm_rifle_spanish_m1859_carbine_m|Испанский карабин образца 1859 г.
-itm_rifle_spanish_m1859_carbine_m_pl|Испанский карабин образца 1859 г.
-itm_rifle_spanish_m1865|Испанская винтовка образца 1865 г.
-itm_rifle_spanish_m1865_pl|Испанская винтовка образца 1865 г.
-itm_rifle_spanish_m1865_m|Испанская винтовка образца 1865 г.
-itm_rifle_spanish_m1865_m_pl|Испанская винтовка образца 1865 г.
-itm_rifle_spanish_m1865_carbine|Испанский карабин образца 1865 г.
-itm_rifle_spanish_m1865_carbine_pl|Испанский карабин образца 1865 г.
-itm_rifle_spanish_m1865_carbine_m|Испанский карабин образца 1865 г.
-itm_rifle_spanish_m1865_carbine_m_pl|Испанский карабин образца 1865 г.
+itm_rifle_spanish_m1859|Испанский мушкет М1859
+itm_rifle_spanish_m1859_pl|Испанский мушкет М1859
+itm_rifle_spanish_m1859_m|Испанский мушкет М1859
+itm_rifle_spanish_m1859_m_pl|Испанский мушкет М1859
+itm_rifle_spanish_m1859_carbine|Испанский карабин М1859
+itm_rifle_spanish_m1859_carbine_pl|Испанский карабин М1859
+itm_rifle_spanish_m1859_carbine_m|Испанский карабин М1859
+itm_rifle_spanish_m1859_carbine_m_pl|Испанский карабин М1859
+itm_rifle_spanish_m1865|Испанская винтовка М1865
+itm_rifle_spanish_m1865_pl|Испанская винтовка М1865
+itm_rifle_spanish_m1865_m|Испанская винтовка М1865
+itm_rifle_spanish_m1865_m_pl|Испанская винтовка М1865
+itm_rifle_spanish_m1865_carbine|Испанский карабин М1865
+itm_rifle_spanish_m1865_carbine_pl|Испанский карабин М1865
+itm_rifle_spanish_m1865_carbine_m|Испанский карабин М1865
+itm_rifle_spanish_m1865_carbine_m_pl|Испанский карабин М1865
 itm_rifle_rollingblock|Винтовка Ремингтона с роликовым блоком
 itm_rifle_rollingblock_pl|Винтовка Ремингтона с роликовым блоком
 itm_rifle_rollingblock_m|Винтовка Ремингтона с роликовым блоком
@@ -2944,10 +2944,10 @@ itm_far_infantry10|Румынская военная форма
 itm_far_infantry10_pl|Румынская военная форма
 itm_far_infantry11|Румынская военная форма
 itm_far_infantry11_pl|Румынская военная форма
-itm_far_cavalry1|Румынская военная форма
-itm_far_cavalry1_pl|Румынская военная форма
-itm_far_cavalry2|Румынская военная форма
-itm_far_cavalry2_pl|Румынская военная форма
+itm_far_cavalry1|Румынская кавалерийская форма
+itm_far_cavalry1_pl|Румынская кавалерийская форма
+itm_far_cavalry2|Румынская кавалерийская форма
+itm_far_cavalry2_pl|Румынская кавалерийская форма
 itm_far_trousers1|Румынские военные брюки
 itm_far_trousers1_pl|Румынские военные брюки
 itm_far_trousers2|Румынские военные брюки
@@ -2984,10 +2984,10 @@ itm_sta_infantry3|Голландская военная форма
 itm_sta_infantry3_pl|Голландская военная форма
 itm_sta_infantry4|Голландская военная форма
 itm_sta_infantry4_pl|Голландская военная форма
-itm_sta_cavalry1|Голландская военная форма
-itm_sta_cavalry1_pl|Голландская военная форма
-itm_sta_cavalry2|Голландская военная форма
-itm_sta_cavalry2_pl|Голландская военная форма
+itm_sta_cavalry1|Голландская кавалерийская форма
+itm_sta_cavalry1_pl|Голландская кавалерийская форма
+itm_sta_cavalry2|Голландская кавалерийская форма
+itm_sta_cavalry2_pl|Голландская кавалерийская форма
 itm_sta_trousers1|Голландские военные брюки
 itm_sta_trousers1_pl|Голландские военные брюки
 itm_sta_trousers2|Голландские военные брюки
@@ -3016,10 +3016,10 @@ itm_def_infantry7|Бельгийская военная форма
 itm_def_infantry7_pl|Бельгийская военная форма
 itm_def_infantry8|Бельгийская военная форма
 itm_def_infantry8_pl|Бельгийская военная форма
-itm_def_cavalry1|Бельгийская военная форма
-itm_def_cavalry1_pl|Бельгийская военная форма
-itm_def_cavalry2|Бельгийская военная форма
-itm_def_cavalry2_pl|Бельгийская военная форма
+itm_def_cavalry1|Бельгийская кавалерийская форма
+itm_def_cavalry1_pl|Бельгийская кавалерийская форма
+itm_def_cavalry2|Бельгийская кавалерийская форма
+itm_def_cavalry2_pl|Бельгийская кавалерийская форма
 itm_def_trousers1|Бельгийские военные брюки
 itm_def_trousers1_pl|Бельгийские военные брюки
 itm_def_trousers2|Бельгийские военные брюки
@@ -3048,10 +3048,10 @@ itm_def_hat8|Бельгийская шляпа
 itm_def_hat8_pl|Бельгийская шляпа
 itm_def_hat9|Бельгийская шляпа
 itm_def_hat9_pl|Бельгийская шляпа
-itm_saber2|Британская легкая кавалерийская сабля образца 1821 года
-itm_saber2_pl|Британская легкая кавалерийская сабля образца 1821 года
-itm_saber3|Шпага солдата британского образца 1864 года
-itm_saber3_pl|Шпага солдата британского образца 1864 года
+itm_saber2|Британская легкая кавалерийская сабля М1821
+itm_saber2_pl|Британская легкая кавалерийская сабля М1821
+itm_saber3|Британская шпага М1864
+itm_saber3_pl|Британская шпага М1864
 itm_sar_infantry1|Швейцарская военная форма
 itm_sar_infantry1_pl|Швейцарская военная форма
 itm_sar_infantry2|Швейцарская военная форма
@@ -3068,32 +3068,32 @@ itm_sar_hat1|Швейцарский кивер
 itm_sar_hat1_pl|Швейцарский кивер
 itm_sar_hat2|Швейцарский кивер
 itm_sar_hat2_pl|Швейцарский кивер
-itm_rifle_swiss_m1842|Швейцарский гладкоствольный мушкет
-itm_rifle_swiss_m1842_pl|Швейцарский гладкоствольный мушкет
-itm_rifle_swiss_m1842_m|Швейцарский гладкоствольный мушкет
-itm_rifle_swiss_m1842_m_pl|Швейцарский гладкоствольный мушкет
-itm_rifle_swiss_m1842_carbine|Швейцарский гладкоствольный карабин
-itm_rifle_swiss_m1842_carbine_pl|Швейцарский гладкоствольный карабин
-itm_rifle_swiss_m1842_carbine_m|Швейцарский гладкоствольный карабин
-itm_rifle_swiss_m1842_carbine_m_pl|Швейцарский гладкоствольный карабин
-itm_rifle_swiss_vetterli|Винтовка Веттерли M1869
-itm_rifle_swiss_vetterli_pl|Винтовка Веттерли M1869
-itm_rifle_swiss_vetterli_m|Винтовка Веттерли M1869
-itm_rifle_swiss_vetterli_m_pl|Винтовка Веттерли M1869
-itm_rifle_swiss_vetterli_carbine|Карабин Веттерли M1869
-itm_rifle_swiss_vetterli_carbine_pl|Карабин Веттерли M1869
-itm_rifle_swiss_vetterli_carbine_m|Карабин Веттерли M1869
-itm_rifle_swiss_vetterli_carbine_m_pl|Карабин Веттерли M1869
+itm_rifle_swiss_m1842|Швейцарский гладкоствольный мушкет М1842
+itm_rifle_swiss_m1842_pl|Швейцарский гладкоствольный мушкет М1842
+itm_rifle_swiss_m1842_m|Швейцарский гладкоствольный мушкет М1842
+itm_rifle_swiss_m1842_m_pl|Швейцарский гладкоствольный мушкет М1842
+itm_rifle_swiss_m1842_carbine|Швейцарский гладкоствольный карабин М1842
+itm_rifle_swiss_m1842_carbine_pl|Швейцарский гладкоствольный карабин М1842
+itm_rifle_swiss_m1842_carbine_m|Швейцарский гладкоствольный карабин М1842
+itm_rifle_swiss_m1842_carbine_m_pl|Швейцарский гладкоствольный карабин М1842
+itm_rifle_swiss_vetterli|Швейцарская винтовка Веттерли M1869
+itm_rifle_swiss_vetterli_pl|Швейцарская винтовка Веттерли M1869
+itm_rifle_swiss_vetterli_m|Швейцарская винтовка Веттерли M1869
+itm_rifle_swiss_vetterli_m_pl|Швейцарская винтовка Веттерли M1869
+itm_rifle_swiss_vetterli_carbine|Швейцарский карабин Веттерли M1869
+itm_rifle_swiss_vetterli_carbine_pl|Швейцарский карабин Веттерли M1869
+itm_rifle_swiss_vetterli_carbine_m|Швейцарский карабин Веттерли M1869
+itm_rifle_swiss_vetterli_carbine_m_pl|Швейцарский карабин Веттерли M1869
 itm_esp_infantry1|Военная форма Папского государства
 itm_esp_infantry1_pl|Военная форма Папского государства
 itm_esp_infantry2|Военная форма Папского государства
 itm_esp_infantry2_pl|Военная форма Папского государства
 itm_esp_infantry3|Военная форма Папского государства
 itm_esp_infantry3_pl|Военная форма Папского государства
-itm_esp_cavalry1|Военная форма Папского государства
-itm_esp_cavalry1_pl|Военная форма Папского государства
-itm_esp_cavalry2|Военная форма Папского государства
-itm_esp_cavalry2_pl|Военная форма Папского государства
+itm_esp_cavalry1|Кавалерийская форма Папского государства
+itm_esp_cavalry1_pl|Кавалерийская форма Папского государства
+itm_esp_cavalry2|Кавалерийская форма Папского государства
+itm_esp_cavalry2_pl|Кавалерийская форма Папского государства
 itm_esp_trousers1|Военные штаны Папского государства
 itm_esp_trousers1_pl|Военные брюки Папского государства
 itm_esp_trousers2|Военные штаны Папского государства
@@ -3118,10 +3118,10 @@ itm_exp_infantry3|Португальская военная форма
 itm_exp_infantry3_pl|Португальская военная форма
 itm_exp_infantry4|Португальская военная форма
 itm_exp_infantry4_pl|Португальская военная форма
-itm_exp_cavalry1|Португальская военная форма
-itm_exp_cavalry1_pl|Португальская военная форма
-itm_exp_cavalry2|Португальская военная форма
-itm_exp_cavalry2_pl|Португальская военная форма
+itm_exp_cavalry1|Португальская кавалерийская форма
+itm_exp_cavalry1_pl|Португальская кавалерийская форма
+itm_exp_cavalry2|Португальская кавалерийская форма
+itm_exp_cavalry2_pl|Португальская кавалерийская форма
 itm_exp_trousers1|Португальские военные брюки
 itm_exp_trousers1_pl|Португальские военные брюки
 itm_exp_trousers2|Португальские военные брюки
@@ -3164,10 +3164,10 @@ itm_els_infantry5|Греческая военная форма
 itm_els_infantry5_pl|Греческая военная форма
 itm_els_infantry6|Греческая военная форма
 itm_els_infantry6_pl|Греческая военная форма
-itm_els_cavalry1|Греческая военная форма
-itm_els_cavalry1_pl|Греческая военная форма
-itm_els_cavalry2|Греческая военная форма
-itm_els_cavalry2_pl|Греческая военная форма
+itm_els_cavalry1|Греческая кавалерийская форма
+itm_els_cavalry1_pl|Греческая кавалерийская форма
+itm_els_cavalry2|Греческая кавалерийская форма
+itm_els_cavalry2_pl|Греческая кавалерийская форма
 itm_els_trousers1|Греческие военные брюки
 itm_els_trousers1_pl|Греческие военные брюки
 itm_els_trousers2|Греческие военные брюки
@@ -3222,14 +3222,14 @@ itm_rifle_belgian_smoothbore_carbine|Бельгийский карабин M1842
 itm_rifle_belgian_smoothbore_carbine_pl|Бельгийский карабин M1842
 itm_rifle_belgian_smoothbore_carbine_m|Бельгийский карабин M1842
 itm_rifle_belgian_smoothbore_carbine_m_pl|Бельгийский карабин M1842
-itm_rifle_greek_smoothbore|Мушкет Кротос M1837
-itm_rifle_greek_smoothbore_pl|Мушкет Кротос M1837
-itm_rifle_greek_smoothbore_m|Мушкет Кротос M1837
-itm_rifle_greek_smoothbore_m_pl|Мушкет Кротос M1837
-itm_rifle_greek_smoothbore_carbine|Карабин Кротос M1837
-itm_rifle_greek_smoothbore_carbine_pl|Карабин Кротос M1837
-itm_rifle_greek_smoothbore_carbine_m|Карабин Кротос M1837
-itm_rifle_greek_smoothbore_carbine_m_pl|Карабин Кротос M1837
+itm_rifle_greek_smoothbore|Греческий мушкет Кротос M1837
+itm_rifle_greek_smoothbore_pl|Греческий мушкет Кротос M1837
+itm_rifle_greek_smoothbore_m|Греческий мушкет Кротос M1837
+itm_rifle_greek_smoothbore_m_pl|Греческий мушкет Кротос M1837
+itm_rifle_greek_smoothbore_carbine|Греческий карабин Кротос M1837
+itm_rifle_greek_smoothbore_carbine_pl|Греческий карабин Кротос M1837
+itm_rifle_greek_smoothbore_carbine_m|Греческий карабин Кротос M1837
+itm_rifle_greek_smoothbore_carbine_m_pl|Греческий карабин Кротос M1837
 itm_rifle_portuguese_smoothbore|Испанский мушкет M1752
 itm_rifle_portuguese_smoothbore_pl|Испанский мушкет M1752
 itm_rifle_portuguese_smoothbore_m|Испанский мушкет M1752
@@ -3238,38 +3238,38 @@ itm_rifle_portuguese_smoothbore_carbine|Испанский карабин M1752
 itm_rifle_portuguese_smoothbore_carbine_pl|Испанский карабин M1752
 itm_rifle_portuguese_smoothbore_carbine_m|Испанский карабин M1752
 itm_rifle_portuguese_smoothbore_carbine_m_pl|Испанский карабин M1752
-itm_rifle_romanian_smoothbore|Мушкет Шарлевиль M1844
-itm_rifle_romanian_smoothbore_pl|Мушкет Шарлевиль M1844
-itm_rifle_romanian_smoothbore_m|Мушкет Шарлевиль M1844
-itm_rifle_romanian_smoothbore_m_pl|Мушкет Шарлевиль M1844
-itm_rifle_romanian_smoothbore_carbine|Карабин Шарлевиль M1844
-itm_rifle_romanian_smoothbore_carbine_pl|Карабин Шарлевиль M1844
-itm_rifle_romanian_smoothbore_carbine_m|Карабин Шарлевиль M1844
-itm_rifle_romanian_smoothbore_carbine_m_pl|Карабин Шарлевиль M1844
-itm_rifle_serbian_smoothbore|Мушкет Шарлевиль
-itm_rifle_serbian_smoothbore_pl|Мушкет Шарлевиль
-itm_rifle_serbian_smoothbore_m|Мушкет Шарлевиль
-itm_rifle_serbian_smoothbore_m_pl|Мушкет Шарлевиль
-itm_rifle_serbian_smoothbore_carbine|Карабин Шарлевиль
-itm_rifle_serbian_smoothbore_carbine_pl|Карабин Шарлевиль
-itm_rifle_serbian_smoothbore_carbine_m|Карабин Шарлевиль
-itm_rifle_serbian_smoothbore_carbine_m_pl|Карабин Шарлевиль
-itm_rifle_ottoman_smoothbore|Мушкет Шарлевиль M1844
-itm_rifle_ottoman_smoothbore_pl|Мушкет Шарлевиль M1844
-itm_rifle_ottoman_smoothbore_m|Мушкет Шарлевиль M1844
-itm_rifle_ottoman_smoothbore_m_pl|Мушкет Шарлевиль M1844
-itm_rifle_ottoman_smoothbore_carbine|Карабин Шарлевиль M1844
-itm_rifle_ottoman_smoothbore_carbine_pl|Карабин Шарлевиль M1844
-itm_rifle_ottoman_smoothbore_carbine_m|Карабин Шарлевиль M1844
-itm_rifle_ottoman_smoothbore_carbine_m_pl|Карабин Шарлевиль M1844
-itm_rifle_egyptian_smoothbore|Мушкет Шарлевиль M1844
-itm_rifle_egyptian_smoothbore_pl|Мушкет Шарлевиль M1844
-itm_rifle_egyptian_smoothbore_m|Мушкет Шарлевиль M1844
-itm_rifle_egyptian_smoothbore_m_pl|Мушкет Шарлевиль M1844
-itm_rifle_egyptian_smoothbore_carbine|Карабин Шарлевиль M1844
-itm_rifle_egyptian_smoothbore_carbine_pl|Карабин Шарлевиль M1844
-itm_rifle_egyptian_smoothbore_carbine_m|Карабин Шарлевиль M1844
-itm_rifle_egyptian_smoothbore_carbine_m_pl|Карабин Шарлевиль M1844
+itm_rifle_romanian_smoothbore|Румынский мушкет Шарлевиль M1844
+itm_rifle_romanian_smoothbore_pl|Румынский мушкет Шарлевиль M1844
+itm_rifle_romanian_smoothbore_m|Румынский мушкет Шарлевиль M1844
+itm_rifle_romanian_smoothbore_m_pl|Румынский мушкет Шарлевиль M1844
+itm_rifle_romanian_smoothbore_carbine|Румынский карабин Шарлевиль M1844
+itm_rifle_romanian_smoothbore_carbine_pl|Румынский карабин Шарлевиль M1844
+itm_rifle_romanian_smoothbore_carbine_m|Румынский карабин Шарлевиль M1844
+itm_rifle_romanian_smoothbore_carbine_m_pl|Румынский карабин Шарлевиль M1844
+itm_rifle_serbian_smoothbore|Сербский мушкет Шарлевиль M1844
+itm_rifle_serbian_smoothbore_pl|Сербский мушкет Шарлевиль M1844
+itm_rifle_serbian_smoothbore_m|Сербский мушкет Шарлевиль M1844
+itm_rifle_serbian_smoothbore_m_pl|Сербский мушкет Шарлевиль M1844
+itm_rifle_serbian_smoothbore_carbine|Сербский карабин Шарлевиль M1844
+itm_rifle_serbian_smoothbore_carbine_pl|Сербский карабин Шарлевиль M1844
+itm_rifle_serbian_smoothbore_carbine_m|Сербский карабин Шарлевиль M1844
+itm_rifle_serbian_smoothbore_carbine_m_pl|Сербский карабин Шарлевиль M1844
+itm_rifle_ottoman_smoothbore|Османский мушкет Шарлевиль M1844
+itm_rifle_ottoman_smoothbore_pl|Османский мушкет Шарлевиль M1844
+itm_rifle_ottoman_smoothbore_m|Османский мушкет Шарлевиль M1844
+itm_rifle_ottoman_smoothbore_m_pl|Османский мушкет Шарлевиль M1844
+itm_rifle_ottoman_smoothbore_carbine|Османский карабин Шарлевиль M1844
+itm_rifle_ottoman_smoothbore_carbine_pl|Османский карабин Шарлевиль M1844
+itm_rifle_ottoman_smoothbore_carbine_m|Османский карабин Шарлевиль M1844
+itm_rifle_ottoman_smoothbore_carbine_m_pl|Османский карабин Шарлевиль M1844
+itm_rifle_egyptian_smoothbore|Египетский мушкет Шарлевиль M1844
+itm_rifle_egyptian_smoothbore_pl|Египетский мушкет Шарлевиль M1844
+itm_rifle_egyptian_smoothbore_m|Египетский мушкет Шарлевиль M1844
+itm_rifle_egyptian_smoothbore_m_pl|Египетский мушкет Шарлевиль M1844
+itm_rifle_egyptian_smoothbore_carbine|Египетский карабин Шарлевиль M1844
+itm_rifle_egyptian_smoothbore_carbine_pl|Египетский карабин Шарлевиль M1844
+itm_rifle_egyptian_smoothbore_carbine_m|Египетский карабин Шарлевиль M1844
+itm_rifle_egyptian_smoothbore_carbine_m_pl|Египетский карабин Шарлевиль M1844
 itm_rifle_danish_smoothbore|Датский мушкет M1828/46
 itm_rifle_danish_smoothbore_pl|Датский мушкет M1828/46
 itm_rifle_danish_smoothbore_m|Датский мушкет M1828/46
@@ -3310,22 +3310,22 @@ itm_rifle_papal_smoothbore_carbine|Папский конверсионный к�
 itm_rifle_papal_smoothbore_carbine_pl|Папский конверсионный карабин M1777
 itm_rifle_papal_smoothbore_carbine_m|Папский конверсионный карабин M1777
 itm_rifle_papal_smoothbore_carbine_m_pl|Папский конверсионный карабин M1777
-itm_bkh_infantry1|Бухарская военная одежда
-itm_bkh_infantry1_pl|Бухарская военная одежда
-itm_bkh_infantry2|Бухарская военная одежда
-itm_bkh_infantry2_pl|Бухарская военная одежда
-itm_bkh_cavalry1|Бухарская военная одежда
-itm_bkh_cavalry1_pl|Бухарская военная одежда
-itm_bkh_cavalry2|Бухарская военная одежда
-itm_bkh_cavalry2_pl|Бухарская военная одежда
-itm_bkh_cavalry3|Бухарская военная одежда
-itm_bkh_cavalry3_pl|Бухарская военная одежда
-itm_bkh_cavalry4|Бухарская военная одежда
-itm_bkh_cavalry4_pl|Бухарская военная одежда
-itm_bkh_cavalry5|Бухарская военная одежда
-itm_bkh_cavalry5_pl|Бухарская военная одежда
-itm_bkh_cavalry6|Бухарская военная одежда
-itm_bkh_cavalry6_pl|Бухарская военная одежда
+itm_bkh_infantry1|Бухарская военная форма
+itm_bkh_infantry1_pl|Бухарская военная форма
+itm_bkh_infantry2|Бухарская военная форма
+itm_bkh_infantry2_pl|Бухарская военная форма
+itm_bkh_cavalry1|Бухарская кавалерийская форма
+itm_bkh_cavalry1_pl|Бухарская кавалерийская форма
+itm_bkh_cavalry2|Бухарская кавалерийская форма
+itm_bkh_cavalry2_pl|Бухарская кавалерийская форма
+itm_bkh_cavalry3|Бухарская кавалерийская форма
+itm_bkh_cavalry3_pl|Бухарская кавалерийская форма
+itm_bkh_cavalry4|Бухарская кавалерийская форма
+itm_bkh_cavalry4_pl|Бухарская кавалерийская форма
+itm_bkh_cavalry5|Бухарская кавалерийская форма
+itm_bkh_cavalry5_pl|Бухарская кавалерийская форма
+itm_bkh_cavalry6|Бухарская кавалерийская форма
+itm_bkh_cavalry6_pl|Бухарская кавалерийская форма
 itm_bkh_trousers1|Бухарские военные штаны
 itm_bkh_trousers1_pl|Бухарские военные штаны
 itm_bkh_trousers2|Бухарские военные штаны
@@ -3368,11 +3368,11 @@ itm_afg_hat2|Среднеазиатская шляпа
 itm_afg_hat2_pl|Среднеазиатская шляпа
 itm_shovel1|Лопата
 itm_shovel1_pl|Лопата
-itm_rifle_comblain|Бельгийский комбен M1870
-itm_rifle_comblain_pl|Бельгийский комбен M1870
-itm_rifle_comblain_m|Бельгийский комбен M1870
-itm_rifle_comblain_m_pl|Бельгийский комбен M1870
-itm_rifle_comblain_carbine|Бельгийский карабин Comblain M1870
+itm_rifle_comblain|Бельгийская винтовка Комблейна M1870
+itm_rifle_comblain_pl|Бельгийская винтовка Комблейна M1870
+itm_rifle_comblain_m|Бельгийская винтовка Комблейна M1870
+itm_rifle_comblain_m_pl|Бельгийская винтовка Комблейна M1870
+itm_rifle_comblain_carbine|Бельгийский карабин Комблейна M1870
 itm_rifle_comblain_carbine_pl|Бельгийский карабин Comblain M1870
 itm_rifle_comblain_carbine_m|Бельгийский карабин Comblain M1870
 itm_rifle_comblain_carbine_m_pl|Бельгийский карабин Comblain M1870
@@ -3396,14 +3396,14 @@ itm_rifle_beaumont1871_88_carbine|Карабин Бомонт M1871/88
 itm_rifle_beaumont1871_88_carbine_pl|Карабин Бомонт M1871/88
 itm_rifle_beaumont1871_88_carbine_m|Карабин Бомонт M1871/88
 itm_rifle_beaumont1871_88_carbine_m_pl|Карабин Бомонт M1871/88
-itm_rifle_peabody|Винтовка Пибоди
-itm_rifle_peabody_pl|Винтовка Пибоди
-itm_rifle_peabody_m|Винтовка Пибоди
-itm_rifle_peabody_m_pl|Винтовка Пибоди
-itm_rifle_peabody_carbine|Карабин Пибоди
-itm_rifle_peabody_carbine_pl|Карабин Пибоди
-itm_rifle_peabody_carbine_m|Карабин Пибоди
-itm_rifle_peabody_carbine_m_pl|Карабин Пибоди
+itm_rifle_peabody|Винтовка Пибоди М1862
+itm_rifle_peabody_pl|Винтовка Пибоди М1862
+itm_rifle_peabody_m|Винтовка Пибоди М1862
+itm_rifle_peabody_m_pl|Винтовка Пибоди М1862
+itm_rifle_peabody_carbine|Карабин Пибоди М1862
+itm_rifle_peabody_carbine_pl|Карабин Пибоди М1862
+itm_rifle_peabody_carbine_m|Карабин Пибоди М1862
+itm_rifle_peabody_carbine_m_pl|Карабин Пибоди М1862
 itm_yuruyuri_chinatsu|Yuru Yuri Chinatsu Yoshikawa (я без понятия шо это такое)
 itm_yuruyuri_chinatsu_pl|Yuru Yuri Chinatsu Yoshikawa (совсем)
 itm_yuruyuri_akari|Yuru Yuri Akari Akaza (без)
@@ -3411,63 +3411,63 @@ itm_yuruyuri_akari_pl|Yuru Yuri Akari Akaza(понятия)
 itm_ddlc_monika|DDLC Monika(та же беда)
 itm_ddlc_monika_pl|DDLC Monika(...)
 itm_sailor_moon_usagi_tsukino|Sailor Moon Usagi Tsukino(наверное это отсылки...)
-itm_sailor_moon_usagi_tsukino_pl|Sailor Moon Usagi Tsukino(манга/аниме)
+itm_sailor_moon_usagi_tsukino_pl|Sailor Moon Usagi Tsukino(манга/аниме/ранобэ...)
 itm_be_chan1|B
 itm_be_chan1_pl|B
 itm_horse_carriage1|Повозка с лошадью
 itm_horse_carriage1_pl|Повозка с лошадью
-itm_rifle_krag|Винтовка Краг-Йоргенсена
-itm_rifle_krag_pl|Винтовка Краг-Йоргенсена
-itm_rifle_krag_m|Винтовка Краг-Йоргенсена
-itm_rifle_krag_m_pl|Винтовка Крага-Йоргенсена
-itm_rifle_krag_carbine|Карабин Краг-Йоргенсен
-itm_rifle_krag_carbine_pl|Карабин Краг-Йоргенсен
-itm_rifle_krag_carbine_m|Карабин Краг-Йоргенсен
-itm_rifle_krag_carbine_m_pl|Карабин Краг-Йоргенсен
+itm_rifle_krag|Винтовка Краг-Йоргенсена М1889
+itm_rifle_krag_pl|Винтовка Краг-Йоргенсена М1889
+itm_rifle_krag_m|Винтовка Краг-Йоргенсена М1889
+itm_rifle_krag_m_pl|Винтовка Крага-Йоргенсена М1889
+itm_rifle_krag_carbine|Карабин Краг-Йоргенсена М1889
+itm_rifle_krag_carbine_pl|Карабин Краг-Йоргенсена М1889
+itm_rifle_krag_carbine_m|Карабин Краг-Йоргенсена М1889
+itm_rifle_krag_carbine_m_pl|Карабин Краг-Йоргенсена М1889
 itm_shotgun_winchester_m1897|Дробовик Винчестер M1897
 itm_shotgun_winchester_m1897_pl|Дробовик Винчестер M1897
 itm_shotgun_winchester_m1897_m|Дробовик Винчестер M1897
 itm_shotgun_winchester_m1897_m_pl|Дробовик Винчестер M1897
-itm_shotgun_spencer_m1882|Дробовик Спенсер образца 1882 г.
-itm_shotgun_spencer_m1882_pl|Дробовик Спенсер образца 1882 г.
-itm_shotgun_spencer_m1882_m|Дробовик Спенсер образца 1882 г.
-itm_shotgun_spencer_m1882_m_pl|Дробовик Спенсер образца 1882 г.
+itm_shotgun_spencer_m1882|Дробовик Спенсера М1882
+itm_shotgun_spencer_m1882_pl|Дробовик Спенсера М1882
+itm_shotgun_spencer_m1882_m|Дробовик Спенсера М1882
+itm_shotgun_spencer_m1882_m_pl|Дробовик Спенсера М1882
 itm_shovel_melee|Лопата
 itm_shovel_melee_pl|Лопата
-itm_lmg_lewis|Пулемет Льюиса
-itm_lmg_lewis_pl|Пулемет Льюиса
-itm_lmg_lewis_m|Пулемет Льюиса
-itm_lmg_lewis_m_pl|Пулемет Льюиса
-itm_lmg_chauchat|Чаучат Пулемет
-itm_lmg_chauchat_pl|Пулемет Чаучат
-itm_lmg_chauchat_m|Пулемет Чаучат
-itm_lmg_chauchat_m_pl|Пулемет Чаучат
-itm_lmg_madsen|Пулемет Мэдсена
-itm_lmg_madsen_pl|Пулемет Мэдсена
-itm_lmg_madsen_m|Пулемет Мэдсена
-itm_lmg_madsen_m_pl|Пулемет Мэдсена
+itm_lmg_lewis|Пулемет Льюиса М1913
+itm_lmg_lewis_pl|Пулемет Льюиса М1913
+itm_lmg_lewis_m|Пулемет Льюиса М1913
+itm_lmg_lewis_m_pl|Пулемет Льюиса М1913
+itm_lmg_chauchat|Пулемет Чаучат М1915
+itm_lmg_chauchat_pl|Пулемет Чаучат М1915
+itm_lmg_chauchat_m|Пулемет Чаучат М1915
+itm_lmg_chauchat_m_pl|Пулемет Чаучат М1915
+itm_lmg_madsen|Пулемет Мадсен М1900
+itm_lmg_madsen_pl|Пулемет Мадсен М1900
+itm_lmg_madsen_m|Пулемет Мадсен М1900
+itm_lmg_madsen_m_pl|Пулемет Мадсен М1900
 itm_lmg_mg0815|Пулемет Машиненгевер 08/15
 itm_lmg_mg0815_pl|Пулемет Машиненгевер 08/15
 itm_lmg_mg0815_m|Пулемет Машиненгевер 08/15
 itm_lmg_mg0815_m_pl|Пулемет Машиненгевер 08/15
-itm_lmg_hotchkiss1909|Пулемет Гочкиса образца 1909 г.
-itm_lmg_hotchkiss1909_pl|Пулемет Гочкиса образца 1909 г.
-itm_lmg_hotchkiss1909_m|Пулемет Гочкиса образца 1909 г.
-itm_lmg_hotchkiss1909_m_pl|Пулемет Гочкиса образца 1909 г.
-itm_grenade_mills|Бомба Миллса
-itm_grenade_mills_pl|Бомба Миллса
-itm_grenade_m15|Ручная граната M15
-itm_grenade_m15_pl|Рукообразная граната M15
-itm_grenade_rg_12|Граната RG 12
-itm_grenade_rg_12_pl|Граната RG 12
-itm_rifle_austrian_m1895|Винтовка Штейр Маннлихер M1895
-itm_rifle_austrian_m1895_pl|Винтовка Штейр Маннлихер M1895
-itm_rifle_austrian_m1895_m|Винтовка Штейр Маннлихер M1895
-itm_rifle_austrian_m1895_m_pl|Винтовка Штейр Маннлихер M1895
-itm_rifle_austrian_m1895_carbine|Карабин Штейр Маннлихер M1895
-itm_rifle_austrian_m1895_carbine_pl|Карабин Штейр Маннлихер M1895
-itm_rifle_austrian_m1895_carbine_m|Карабин Штейр Маннлихер M1895
-itm_rifle_austrian_m1895_carbine_m_pl|Карабин Штейр Маннлихер M1895
+itm_lmg_hotchkiss1909|Пулемет Гочкиса М1909
+itm_lmg_hotchkiss1909_pl|Пулемет Гочкиса М1909
+itm_lmg_hotchkiss1909_m|Пулемет Гочкиса М1909
+itm_lmg_hotchkiss1909_m_pl|Пулемет Гочкиса М1909
+itm_grenade_mills|Граната Миллса М1915
+itm_grenade_mills_pl|Граната Миллса М1915
+itm_grenade_m15|Ручная граната м15 М1915
+itm_grenade_m15_pl|Ручная граната м15 М1915
+itm_grenade_rg_12|Ручная граната РГ-12 М1912
+itm_grenade_rg_12_pl|Ручная граната РГ-12 М1912
+itm_rifle_austrian_m1895|Австрийская винтовка Штейр-Маннлихера M1895
+itm_rifle_austrian_m1895_pl|Австрийская винтовка Штейр-Маннлихера M1895
+itm_rifle_austrian_m1895_m|Австрийская винтовка Штейр-Маннлихера M1895
+itm_rifle_austrian_m1895_m_pl|Австрийская винтовка Штейр-Маннлихера M1895
+itm_rifle_austrian_m1895_carbine|Австрийский карабин Штейр-Маннлихера M1895
+itm_rifle_austrian_m1895_carbine_pl|Австрийский карабин Штейр-Маннлихера M1895
+itm_rifle_austrian_m1895_carbine_m|Австрийский карабин Штейр-Маннлихера M1895
+itm_rifle_austrian_m1895_carbine_m_pl|Австрийский карабин Штейр-Маннлихера M1895
 itm_rifle_smle|Винтовка Ли-Энфилд Mk I
 itm_rifle_smle_pl|Винтовка Ли-Энфилд Mk I
 itm_rifle_smle_m|ВинтовкаЛи-Энфилд Mk I
@@ -3524,8 +3524,8 @@ itm_sidearm_c96|Пистолет Маузер C96
 itm_sidearm_c96_pl|Пистолет Маузер С96
 itm_sidearm_nagant|Наган M1895
 itm_sidearm_nagant_pl|Наган M1895
-itm_sidearm_mle_1892|Револьвер образца 1892 г.
-itm_sidearm_mle_1892_pl|Револьвер образца 1892 г.
+itm_sidearm_mle_1892|Револьвер М1892
+itm_sidearm_mle_1892_pl|Револьвер М1892
 itm_sidearm_rastgasser|Пистолет Раст и Гассер M1898
 itm_sidearm_rastgasser_pl|Пистолет Раст и Гассер M1898
 itm_sidearm_luger|Пистолет Люгер P08 Парабеллум
@@ -3533,7 +3533,7 @@ itm_sidearm_luger_pl|Пистолет Люгер P08 Парабеллум
 itm_sidearm_mannlicherpistol1896|Пистолет Манлихера M1896
 itm_sidearm_mannlicherpistol1896_pl|Пистолет Манлихера M1896
 itm_sidearm_ruby|Пистолет Руби
-itm_sidearm_ruby_pl|Пистолет He,b
+itm_sidearm_ruby_pl|Пистолет Руби
 itm_sidearm_steyr|Пистолет Штейр M1912
 itm_sidearm_steyr_pl|Пистолет Штейр M1912
 itm_sidearm_bergman|Пистолет Бергманн Баярд
